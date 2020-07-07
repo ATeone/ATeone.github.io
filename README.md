@@ -1,2 +1,2 @@
 # castlegram
-castles allery site
+castles gallery site
